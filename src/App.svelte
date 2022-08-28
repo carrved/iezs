@@ -1,7 +1,6 @@
 <script>
 	import "fluent-svelte/theme.css";
 	import Buttons from './lib/Buttons.svelte';
-	import Test from './lib/Test.svelte';
 	import { TextBlock } from "fluent-svelte";
 	import { onMount } from 'svelte';
 	import { fade, scale } from 'svelte/transition';
