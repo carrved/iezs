@@ -6,7 +6,9 @@
   
 	color-scheme: light dark;
 	color: rgba(255, 255, 255, 0.87);
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://media.discordapp.net/attachments/1009501212963524658/1013121903126396979/ezgif.com-gif-maker.gif');
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
 	
   
 	font-synthesis: none;
