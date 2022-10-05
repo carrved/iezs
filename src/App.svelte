@@ -17,7 +17,7 @@
 	  <div class="content">
 		<TextBlock ref="title" variant="display">rpa</TextBlock>
 	  </div>
-	  <TextBlock variant="subtitle">up n' coming lua dev</TextBlock>
+	  <TextBlock variant="subtitle">rpa#0435</TextBlock>
   
 	<div class="buttons">
 	  <p in:scale> </p>

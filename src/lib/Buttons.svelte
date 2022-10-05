@@ -12,7 +12,7 @@
     }
 
     const openGithub = () => {
-        window.open("https://github.com/iezs");
+        window.open("https://xyl.lol/gas");
     }
 </script>
 
@@ -21,5 +21,5 @@
 </Fluent.Button>
 
 <Fluent.Button on:click={openGithub}>
-    github
+    xyl
 </Fluent.Button>
