@@ -7,7 +7,8 @@
 	color-scheme: light dark;
 	color: rgba(255, 255, 255, 0.87);
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://media.discordapp.net/attachments/1036093902882623579/1040381780454277120/this_cannot.gif');
-	background-size: stretch;
+	background-size: cover;
+ 	background-repeat: no-repeat;
 	
   
 	font-synthesis: none;
